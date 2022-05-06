@@ -1,0 +1,19 @@
+{
+  "name": "@ssinji/test_ghcr",
+  "version": "1.0.0",
+  "description": "first test",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssinji/test_ghcr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssinji/test_ghcr/issues"
+  },
+  "homepage": "https://github.com/ssinji/test_ghcr#readme"
+}
